@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 master and feature f4
+=======
+master and feature m3
+>>>>>>> 12e7dea (m3)
